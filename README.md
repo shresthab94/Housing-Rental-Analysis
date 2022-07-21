@@ -1,4 +1,4 @@
-# Week-7-Challange-Housing-Rental-Analysis
+# Housing-Rental-Analysis
 
 The application is real estate-based data visualization data. We look at data based on the city of San Francisco, California. For the years between, 2010 and 2016, we look at the different real estate data like sale price per unit, number of units, and gross rent for different San Fran neighbourhoods. We also have data on the geospatial locations of the different locations. Based on these data we can look at relationship amidst different factors effecting the real estate market. 
 
